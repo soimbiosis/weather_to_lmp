@@ -31,5 +31,5 @@ In addition to the raw weather features, lag and rolling window features
 were computed, as well as time features which included sin/cos encodings
 of hour of day, day of year, and day of week.
 
-Please see [the study writeup](weather_energy_summary.pdf) for a breakdown of the experiments
+Please see [the study writeup](weather_energy_study_summary.pdf) for a breakdown of the experiments
 conducted, interpreted results and figures.
